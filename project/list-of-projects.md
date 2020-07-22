@@ -46,14 +46,15 @@
 
 
 
-## Project: Privacy expectations for COVID-19 tracing applications
+## Project: Self-Reporting Implications of Contact Tracing
 
 **Group members**: Chukwunenye, Josh, Neeraj and Ramana
 
-**Research goal**: To find out whether there is consistency between covid19 location tracing apps (as expressed by their creators in the app privacy policies) and the users' privacy understanding and expectations of these applications.
+**Research goal**: When presented with the risks of being identified as COVID-19 positive, users are unlikely to self-report using a contact tracing app built on the DP^3T protocol. Our Survey is an attempt to research this hypothesis.
 
 **Documents (in progress)**:
-- [**Main project document**](https://docs.google.com/document/d/1zTJ8MkEs_obfv_zLICVFbX2uabks3zj6ETLICE3ApJA/edit?usp=sharing)
+- [**Main project document**](https://docs.google.com/document/d/1FKP_jbdsaTcGE5-zU595v_sNa7HyTUPqbQH3p3oIKnc/edit?usp=sharing)
 - **Informed consent**: No file.
 - **Experiment ad**: No file.
-- **Other material**: None yet.
+- **Other material**: 
+	* [Qualtrics Survey](https://berkeley.qualtrics.com/jfe/form/SV_0MlJxv4Vr8LNxEp)
